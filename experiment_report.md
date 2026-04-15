@@ -1,8 +1,8 @@
 # Experiment Report: Data Quality Impact on AI Agent
 
-**Student ID:** AI20K-XXXX
-**Name:** (Dien ten cua ban)
-**Date:** (Dien ngay thuc hien)
+**Student ID:** 2A202600216
+**Name:** Nguyễn Thùy Linh
+**Date:** 15/04/2026
 
 ---
 
