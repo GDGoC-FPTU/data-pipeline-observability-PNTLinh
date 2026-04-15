@@ -1,4 +1,4 @@
-﻿id,product,price,category,discounted_price,processed_at
-1,Laptop,1200,Electronics,1080.0,2026-04-15 14:43:06
-2,Chair,45,Furniture,40.5,2026-04-15 14:43:06
-5,Monitor,300,Electronics,270.0,2026-04-15 14:43:06
+id,product,price,category,discounted_price,processed_at
+1,Laptop,1200,Electronics,1080.0,2026-04-15T14:46:01.331244
+2,Chair,45,Furniture,40.5,2026-04-15T14:46:01.331244
+5,Monitor,300,Electronics,270.0,2026-04-15T14:46:01.331244
